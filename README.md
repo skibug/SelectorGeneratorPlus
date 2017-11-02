@@ -5,6 +5,32 @@ Selector Generator Plus(快速生成SelectorDrawable和SelectorColor)
 ![readme_drawable](https://github.com/skibug/SelectorGeneratorPlus/blob/master/img/readme_drawable.png)
 
 
+###命名匹配规则
+* _normal           
+default state
+* _n                
+default state
+* _pressed          
+state_pressed
+* _p                
+state_pressed
+* _focused          
+state_focused
+* _disabled         
+state_enabled
+* _checked          
+state_checked
+* _selected         
+state_selected
+* _hovered          
+state_hovered
+* _checkable        
+state_checkable
+* _activated        
+state_activated
+* _windowfocused    
+state_window_focused
+
 
 
 ### 插件配置
